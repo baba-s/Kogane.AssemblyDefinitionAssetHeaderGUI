@@ -1,0 +1,19 @@
+﻿{
+    "name": "Kogane.AssemblyDefinitionAssetHeaderGUI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4c463756941cda2428cb358b10e83210",
+        "GUID:f79b208da70018b4e99cfff6da005587"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
